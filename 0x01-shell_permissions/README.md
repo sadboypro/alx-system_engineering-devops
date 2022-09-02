@@ -1,1 +1,1 @@
-read another book
+read a good book
