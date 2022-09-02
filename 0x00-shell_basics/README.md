@@ -1,1 +1,1 @@
-cahnge curent working directory
+readead
