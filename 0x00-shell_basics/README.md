@@ -1,1 +1,1 @@
-bye B
+bye bye directory
