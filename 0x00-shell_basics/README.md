@@ -1,1 +1,1 @@
-reader no ni
+reader is alve finnaly
