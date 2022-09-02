@@ -1,1 +1,1 @@
-readd
+read the manuel
