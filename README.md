@@ -1,1 +1,1 @@
-pwd
+bye betty
