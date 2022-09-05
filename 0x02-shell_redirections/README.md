@@ -1,1 +1,1 @@
-a script that writes
+hard code
