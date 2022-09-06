@@ -1,1 +1,1 @@
-my echo
+saymy name
